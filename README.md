@@ -22,9 +22,6 @@ old github acc : [click here](https://www.github.com/rootaki)<br>
 
 <a href="https://github.com/developeraki/developeraki">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeraki&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/developeraki/developeraki">
-  <img align="center" src="https://github-readme-stats.developeraki.vercel.app/api?username=developeraki&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
-</a>
 
 ---
 
