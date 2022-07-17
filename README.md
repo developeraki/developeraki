@@ -18,16 +18,16 @@ old github acc : [click here](https://www.github.com/rootaki)<br>
 
 ---
 
-<h1 align="center">Skills</h1>
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge logo=github&logoColor=white"/>
+<h1 align="center">My STATS<h1>
 
-</div>
+<a href="https://github.com/developeraki/developeraki">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeraki&hide_border=true&theme=radical"/></a>
+<a href="https://github.com/developeraki/developeraki">
+  <img align="center" src="https://github-readme-stats.developeraki.vercel.app/api?username=developeraki&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
+</a>
+
 ---
+
 ### Other infos
 
 I'm a 14yo student which loves to program. I also like to watch anime, read manga and do some gym excercise.<br>
