@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
+---
 
-<!--
-**developeraki/developeraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I?
+---
+Hii, I'm Aki, a full-stack developer which love to program in Python and Javascript. I started<br>
+to learn Php and C. <br>
+I also started to study Cybersecurity, which is one of my passion.<br>
+In future, i'd like to become a cybersecurity engineer. 
 
-Here are some ideas to get you started:
+---
+### Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mail : dev.pietrobruno@gmail.com<br>
+ds: akii#4744<br>
+Made by [aki](https://www.github.com/developeraki)<br> 
+old github acc : [click here](https://www.github.com/rootaki)<br>
+
+--------- 
+#### Other infos
+
+I'm a 14yo student which love to program. I also like to watch anime, read manga and do some gym excercise.<br>
+I lived in Milano for 12 years, but i moved up to Emilia-Romagna, (Italy)<br><br>
