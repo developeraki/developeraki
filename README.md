@@ -18,7 +18,7 @@ old github acc : [click here](https://www.github.com/rootaki)<br>
 
 ---
 
-<h1 align="center">My STATS<h1>
+<h1 align="center">my stats<h1>
 
 <a href="https://github.com/developeraki/developeraki">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeraki&hide_border=true&theme=radical"/></a>
@@ -32,4 +32,4 @@ I lived in Milano for 12 years, but i moved up to Emilia-Romagna, (Italy)<br><br
 
 ## Contents
 
-In this profile I'll post _only_ interesting projects and big projects. I recently change my profile
+In this profile I'll post _only_ interesting projects and big projects. I recently change my profile. 
