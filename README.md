@@ -1,34 +1,5 @@
 # About Me
 ---
-# Skills
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=JavaScript&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
-
-```JavaScript
-class aki extends Profile {
-  constructor() {
-    this.username = "aki";
-    this.location = "bedroom";
-    this.languages = ["HTML", "CSS", "JavaScript", "Python", "C", "Json", "Php"];
-    this.ds = "akii#0001";
-    this.websites = {
-    "desktop-first": "https://developeraki.github.io/akidev/",
-    "working-in-progress": "https://developeraki.github.io/aki/",
-    "responsive": "soon"
-    };
-  }
-  name() {
-    return this.name;
-  }
-}
-
-const me = new aki();
-```
 
 ## Who Am I?
 ---
@@ -47,7 +18,7 @@ old github acc : [click here](https://www.github.com/rootaki)<br>
 
 ---
 
-# Skills
+## Skills
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -55,6 +26,7 @@ old github acc : [click here](https://www.github.com/rootaki)<br>
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
+<br><br>
 
 ```JavaScript
 class aki extends Profile {
